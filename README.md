@@ -6,7 +6,7 @@
 
 ### About me
 
-- 💼 Cloud Engineer at [idealo](http://idealo.de/)
+- 💼 Cloud Engineer at [idealo](https://jobs.idealo.com)
 
 - 🔨 I created and maintain [go-aw-sso](https://github.com/theurichde/go-aws-sso)
 
