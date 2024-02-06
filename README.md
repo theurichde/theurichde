@@ -8,7 +8,7 @@
 
 - 💼 Cloud Engineer at [idealo](https://jobs.idealo.com)
 
-- 🔨 I created and maintain [go-aw-sso](https://github.com/theurichde/go-aws-sso)
+- 🔨 I created and maintain [go-aws-sso](https://github.com/theurichde/go-aws-sso)
 
 - 💬 Ask me anything [here](https://github.com/theurichde/theurichde/issues)
 
