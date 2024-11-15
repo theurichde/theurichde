@@ -1,12 +1,12 @@
-### Moinsen!
+### Ahoi!
 
 **/me is Tim.** 
 
-**I like open source software, working with Go, k8s and AWS and I really enjoy working [@idealo](https://www.idealo.de)** 
+**I like open source software, working with Go, k8s and AWS** 
 
 ### About me
 
-- 💼 Cloud Engineer at [idealo](https://jobs.idealo.com)
+- 💼 Software Engineer by Heart, Cloud Engineer in Between
 
 - 🔨 I created and maintain [go-aws-sso](https://github.com/theurichde/go-aws-sso)
 
